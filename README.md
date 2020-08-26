@@ -1,4 +1,4 @@
-B# ABC
+# ABC
 Atcoder Beginners' Contest
 
 ぴよぴよ。
