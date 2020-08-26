@@ -1,8 +1,8 @@
 program c176
 
 implicit none
-integer :: n, i, m, x
-integer, allocatable :: a(:)
+integer(16) :: n, i, m, x
+integer(16), allocatable :: a(:)
 
 read *, n
 
